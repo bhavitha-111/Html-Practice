@@ -8,7 +8,7 @@ def add_student():
 
     student = {
         "roll": roll,
-        "name": name,
+        "name": name,   
         "age": age,
         "course": course
     }
